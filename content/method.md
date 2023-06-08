@@ -1,7 +1,6 @@
 ---
 title: "The Method"
 date: 2023-06-01T10:25:57-07:00
-draft: true
 ---
 
 ## Introduction 
