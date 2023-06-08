@@ -9,6 +9,8 @@ header_menu: true
 
 We were parents looking for an off-season conditioning program for our kids that would fit their busy schedules and provide a heavy focus on mobility and pre-hab training.
 
+![teamwork](images/group_hug.jpg)
+
 After looking at all our options and the associated costs, we decided that the only way forward was to devise a program based on our own experiences as competitive athletes combined with rigorous research and helpful insights from a wide array of coaches and fitness professionals. 
 
 This website implements our learnings for an off-season soccer conditioning program for the young novice athlete (U13/U14). Please feel free to use adapt and share as much as possible.  We have tried to credit the original sources wherever possible.

@@ -3,9 +3,11 @@ title: "Credits"
 weight: 99
 header_menu: true
 ---
-Shoutout to those who have helped us along the way!
+Shoutout to those who have helped us along the way! We have no affiliation with any of these organizations but there resources are truly helpful
 
-- {{<extlink text="Chef-hat icons created by Cuputo - Flaticon" href="https://www.flaticon.com/free-icons/chef-hat" icon="fa fa-external-link">}}
-- {{<extlink text="sprinkle-of-rock-salt-on-sliced-vegetables-3209239 - Pexels" href="https://www.pexels.com/video/sprinkle-of-rock-salt-on-sliced-vegetables-3209239/" icon="fa fa-external-link">}}
+- {{<extlink text="Bulk of the program is inspired by this article from the Real Salt Lake Youth Academy" href="https://simplifaster.com/articles/off-season-training-youth-soccer" icon="fa fa-external-link">}}
+- {{<extlink text="Dr Yesis and his 1 x 20 program" href="https://doctoryessis.com/" icon="fa fa-external-link">}}
+
+
 
 
