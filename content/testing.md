@@ -1,7 +1,6 @@
 ---
 title: "Testing"
 date: 2023-06-02T11:43:19-07:00
-draft: true
 ---
 ## Introdcution
 
