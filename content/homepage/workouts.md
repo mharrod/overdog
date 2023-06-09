@@ -1,5 +1,5 @@
 ---
-title: 'The Workout'
+title: 'Workout'
 weight: 4
 header_menu: true
 ---
@@ -17,23 +17,23 @@ If you haven't already, you should read [the Method](method) behind the workout.
 
 ---
 
-{{<extlink text="Day 1 Monday" href="https://drive.google.com/file/d/180gp6BvTT1I5I8Jd2blfpbX_8kOAwk-h/view?usp=drive_link" >}}- Vertical Plyometrics, Max Velocity Sprints, Repeat Sprints, Quad-Dominant Lift
+{{<extlink text="Day 1 Monday" href="https://drive.google.com/file/d/180gp6BvTT1I5I8Jd2blfpbX_8kOAwk-h/view?usp=drive_link" >}}- High CNS: Vertical Plyometrics, Max Velocity Sprints, Repeat Sprints, Quad-Dominant Lift
 
 ---
 
-{{<extlink text="Day 2 Tuesday" href="https://drive.google.com/file/d/180gp6BvTT1I5I8Jd2blfpbX_8kOAwk-h/view?usp=drive_link" >}}- Vertical Plyometrics, Max Velocity Sprints, Repeat Sprints, Quad-Dominant Lift
+{{<extlink text="Day 2 Tuesday" href="https://drive.google.com/file/d/180gp6BvTT1I5I8Jd2blfpbX_8kOAwk-h/view?usp=drive_link" >}}- Low CNS: Extensive Tempo, Ginga Skills, Deep Mobility
 
 ---
 
-{{<extlink text="Day 3 Wednsday" href="https://drive.google.com/file/d/180gp6BvTT1I5I8Jd2blfpbX_8kOAwk-h/view?usp=drive_link" >}}- Vertical Plyometrics, Max Velocity Sprints, Repeat Sprints, Quad-Dominant Lift
+{{<extlink text="Day 3 Wednsday" href="https://drive.google.com/file/d/180gp6BvTT1I5I8Jd2blfpbX_8kOAwk-h/view?usp=drive_link" >}}- High CNS: Movement Prep, Lateral Plyos, Accelerations, Upper Body Lift
 
 ---
 
-{{<extlink text="Day 4 Thursday" href="https://drive.google.com/file/d/180gp6BvTT1I5I8Jd2blfpbX_8kOAwk-h/view?usp=drive_link" >}}- Vertical Plyometrics, Max Velocity Sprints, Repeat Sprints, Quad-Dominant Lift
+{{<extlink text="Day 4 Thursday" href="https://drive.google.com/file/d/180gp6BvTT1I5I8Jd2blfpbX_8kOAwk-h/view?usp=drive_link" >}}- Low CNS: Aerobic Grid Runs, Ginga Skills, Deep Mobility
 
 ---
 
-{{<extlink text="Day 5 Friday" href="https://drive.google.com/file/d/180gp6BvTT1I5I8Jd2blfpbX_8kOAwk-h/view?usp=drive_link" >}}- Vertical Plyometrics, Max Velocity Sprints, Repeat Sprints, Quad-Dominant Lift
+{{<extlink text="Day 5 Friday" href="https://drive.google.com/file/d/180gp6BvTT1I5I8Jd2blfpbX_8kOAwk-h/view?usp=drive_link" >}}- High CNS: Movement Prep, Horizontal Plyos, Max Velocity Sprinting, Speed Changes Hamstring-Dominant Lift
 
 ---
 

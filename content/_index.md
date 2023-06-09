@@ -10,5 +10,5 @@ header_logo: "images/dog_trans.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "OverDog Athletics"
-header_subheadline: "Off Season Soccer Performance Training Program 2023"
+header_subheadline: "Off Season Soccer Conditioning Program 2023"
 ---

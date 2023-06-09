@@ -1,12 +1,12 @@
 ---
-title: 'The Testing'
+title: 'Testing'
 weight: 5
 header_menu: true
 ---
 
 Initially, we struggled with including testing as part of the training program.  We thought it might put too much pressure on our kids.  Moreover, we worried that our kids would fixate on improving their testing numbers rather than their overall performance.
 
-Here is a summary of our core testing protocol:
+Nevertheless, we decided to push ahead and incoprate testing into the training regime.  Here is a summary of our core testing protocol:
 
 | Test Name  | Metrics  |
 |---|---|

@@ -7,7 +7,7 @@ header_menu: true
 ![OverDog Athletics](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
 --->
 
-We were parents looking for an off-season conditioning program for our kids that would fit their busy schedules and provide a heavy focus on mobility and pre-hab training.
+We were looking for an off-season conditioning program for our kids that would fit their busy schedules and provide a heavy focus on mobility and pre-hab training.
 
 ![teamwork](images/group_hug.jpg)
 
