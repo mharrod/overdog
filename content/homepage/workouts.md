@@ -5,7 +5,7 @@ header_menu: true
 ---
 **See {{<extlink text="HERE" href="https://drive.google.com/drive/folders/1Qo3iMMhBRVCj5GL0V2O3XwGNQUjXszQT?usp=drive_link" >}}- if you want to jump straight to the workout files.**
 
-The workout is quite simple.  It is 5 days of training with mix of high and low intensity days that are comprised of running, plyometrics, weighlifting and mobility. 
+The workout is quite simple.  It is 5 days of training with a mix of high and low intensity days that are comprised of running, plyometrics, weighlifting and mobility. 
 
 If you haven't already, you should read [the Method](method) behind the workout.  It will help you make more sense of the regime we decided to follow. 
 
