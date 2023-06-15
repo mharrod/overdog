@@ -22,23 +22,23 @@ If you haven't already, you should read the [Method](method) behind the workout.
 
 ---
 
-{{<extlink text="Day 1 Monday" href="https://overdog.nyc3.digitaloceanspaces.com/workout/day1" >}}- High CNS: Vertical Plyometrics, Max Velocity Sprints, Repeat Sprints, Quad-Dominant Lift
+{{<extlink text="Day 1 - Monday" href="https://overdog.nyc3.digitaloceanspaces.com/workout/day1" >}}- High CNS: Vertical Plyometrics, Max Velocity Sprints, Repeat Sprints, Quad-Dominant Lift
 
 ---
 
-{{<extlink text="Day 2 Tuesday" href="https://overdog.nyc3.digitaloceanspaces.com/workout/day2" >}}- Low CNS: Extensive Tempo, Ginga Skills, Deep Mobility
+{{<extlink text="Day 2 - Tuesday" href="https://overdog.nyc3.digitaloceanspaces.com/workout/day2" >}}- Low CNS: Extensive Tempo, Ginga Skills, Deep Mobility
 
 ---
 
-{{<extlink text="Day 3 Wednesday" href="https://overdog.nyc3.digitaloceanspaces.com/workout/day3" >}}- High CNS: Movement Prep, Lateral Plyos, Accelerations, Upper Body Lift
+{{<extlink text="Day 3 - Wednesday" href="https://overdog.nyc3.digitaloceanspaces.com/workout/day3" >}}- High CNS: Movement Prep, Lateral Plyos, Accelerations, Upper Body Lift
 
 ---
 
-{{<extlink text="Day 4 Thursday" href="https://overdog.nyc3.digitaloceanspaces.com/workout/day4" >}}- Low CNS: Aerobic Grid Runs, Ginga Skills, Deep Mobility
+{{<extlink text="Day 4 - Thursday" href="https://overdog.nyc3.digitaloceanspaces.com/workout/day4" >}}- Low CNS: Aerobic Grid Runs, Ginga Skills, Deep Mobility
 
 ---
 
-{{<extlink text="Day 5 Friday" href="https://overdog.nyc3.digitaloceanspaces.com/workout/day5" >}}- High CNS: Movement Prep, Horizontal Plyos, Max Velocity Sprinting, Speed Changes Hamstring-Dominant Lift
+{{<extlink text="Day 5 - Friday" href="https://overdog.nyc3.digitaloceanspaces.com/workout/day5" >}}- High CNS: Movement Prep, Horizontal Plyos, Max Velocity Sprinting, Speed Changes Hamstring-Dominant Lift
 
 ---
 

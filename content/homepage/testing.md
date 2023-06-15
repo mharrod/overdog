@@ -12,7 +12,7 @@ Nevertheless, we decided to push ahead and incoprate testing into the training r
 |---|---|
 | 3 Hop Test  | Total distance in meters |
 | Vertical Jump | Vertical jump power calculation (Harman)  |
-| RSA 10m  | (Total Time – (Best time x 5)) / Total Time x 100 |
+| RSA 20m  | (Total Time – (Best time x 5)) / Total Time x 100 |
 | Illinois Agility Test  | Time in seconds  |
 | Weight | Weight in KG |
 | Body Fat | Percentage |

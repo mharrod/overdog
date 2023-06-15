@@ -44,12 +44,12 @@ Participants should lie on their front (head to the start line) and hands by the
 * Guidance: https://www.topendsports.com/testing/tests/illinois.htm
 ---
 
-##### RSA 10m
-5 sprints over a distance of 10m. Sprint times were recorded using a Brower system. A 10s passive recovery period was timed using a stop watch and was instituted between each successive sprint         
+##### RSA 20m
+7 sprints over a distance of 20m. Sprint times were recorded using a timing gate. A 10s passive recovery period between each run        
 
 * Metric: (Total Time – (Best time x 5)) / Total Time x 100
 * Frequency: Weekly
-* Guidance: https://www.soccerfitness.ca/wp-content/uploads/2010/05/Liverpoo-lPoster.pdf
+* Guidance: https://www.topendsports.com/testing/tests/sprint-repeat.htm
 ---
 
 ##### Vertical Jump                
